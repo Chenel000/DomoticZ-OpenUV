@@ -4,6 +4,10 @@
 
 # Installation
 
-```python
-pip install pyopenuv
-```
+In DomoticZ 
+Select Setup / More Options / Events
+Add script
+Select dzVents / minimal
+Paste the code of the file `OpenUv.lua` in the text editor
+Save as `OpenUV`
+
