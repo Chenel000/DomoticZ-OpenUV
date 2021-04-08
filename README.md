@@ -9,5 +9,9 @@ In DomoticZ webpage
 * Add script
 * Select dzVents / minimal
 * Paste the code of the file `OpenUv.lua` in the text editor
+* Leave `Off` the script
 * Save as `OpenUV`
+* Create the following Virtual devices
+  * ddd  
+
 
