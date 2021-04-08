@@ -4,7 +4,7 @@
 
 # Installation
 
-In DomoticZ 
+In DomoticZ\n
 Select Setup / More Options / Events
 Add script
 Select dzVents / minimal
