@@ -25,7 +25,7 @@ In DomoticZ webpage
   * Note: These are proposed names
  * Update the script with the idx of the created Virtual sensors
  * Update the script wit hlatitude, longitude and altitude of your location
- * Update the script with your scpecific API_Key obtained from the OpenUV console](https://www.openuv.io/console)
+ * Update the script with your scpecific API_Key obtained from the [OpenUV console](https://www.openuv.io/console)
  * Enable the executio of the script by switching it to `On`
  * Every 15 minutes from 08:00 to 20:00 the created Virtual sensors will be updated. This time configuration matches with the requirement of a maximum of 50 request per day applied by [openuv.io](https://openuv.io/)
 
