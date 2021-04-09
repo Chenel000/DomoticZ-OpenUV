@@ -9,7 +9,7 @@ In DomoticZ webpage
 * Add script
 * Select dzVents / minimal
 * Paste the code of the file `OpenUV.lua` in the text editor
-* Leave `Off` the script
+* Leave in `Off` state the script
 * Save as `OpenUV`
 * Create the following Virtual sensors
   * Name: UV index, type: UV
