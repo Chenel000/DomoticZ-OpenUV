@@ -29,4 +29,6 @@ In DomoticZ webpage
  * Enable the executio of the script by switching it to `On`
  * Every 15 minutes from 08:00 to 20:00 the created Virtual sensors will be updated. This time configuration matches with the requirement of a maximum of 50 request per day applied by [openuv.io](https://openuv.io/)
 
+Note: UV type devices will appear in the Weather folder of DomoticZ web page, and the rest of devices will appear in the Utility folder. If you prefer that all the UV related devices appear in the Weather folder, configure all the 'Safe Time Skin' and the 'UV Max Time' devices as UV devices and include the units in the name, ie 'Safe Time Skin 1 (min)' or 'UV Max Time (hh.mm)'. In this way all the UV related devices will be together in the same "Weather" folder.
+
 
