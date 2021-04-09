@@ -2,7 +2,7 @@
 [openuv.io](https://openuv.io/).
 
 
-# Installation
+# Installation (Please read the full wording before proceed)
 
 In DomoticZ webpage
 * Menu Setup / More Options / Events
