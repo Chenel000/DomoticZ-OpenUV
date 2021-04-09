@@ -23,9 +23,9 @@ In DomoticZ webpage
   * Name: Safe Time Skin 6, type: Custon sensor, unit: minutes
   * Name: UV Max Time, type: Custon sensor, unit: hh.mm
   * Note: These are proposed names
- * Update the script with the idx of the created Virtual sensors
- * Update the script wit hlatitude, longitude and altitude of your location
- * Update the script with your scpecific API_Key obtained from the [OpenUV console](https://www.openuv.io/console)
+ * Update the script code with the idx of the created Virtual sensors
+ * Update the script code with latitude, longitude and altitude values of your location
+ * Update the script code with your scpecific API_Key obtained from the [OpenUV console](https://www.openuv.io/console)
  * Enable the executio of the script by switching it to `On`
  * Every 15 minutes from 08:00 to 20:00 the created Virtual sensors will be updated. This time configuration matches with the requirement of a maximum of 50 request per day applied by [openuv.io](https://openuv.io/)
 
