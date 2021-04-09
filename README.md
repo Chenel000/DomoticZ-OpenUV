@@ -8,7 +8,7 @@ In DomoticZ webpage
 * Menu Setup / More Options / Events
 * Add script
 * Select dzVents / minimal
-* Paste the code of the file `OpenUV.lua` in the text editor
+* Paste and replace the template code with the code of the file `OpenUV.lua`
 * Leave in `Off` state the script
 * Save as `OpenUV`
 * Create the following Virtual sensors
