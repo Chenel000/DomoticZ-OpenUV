@@ -17,7 +17,7 @@ In DomoticZ webpage
   * Name: Safe Time Skin 6, type: Custon sensor, unit: minutes
   * Name: UV Max Time, type: Custon sensor, unit: hh.mm
   * Note1: These are proposed names replace as you like. 
-  * Note2: UV type devices will appear in the `Weather` folder of DomoticZ web page, and the rest of devices will appear in the `Utility` folder. If you prefer that all the UV related devices appear in the `Weather` folder, configure all the `Safe Time Skin` and the `UV Max Time' devices as UV devices and include the units in the name, ie `Safe Time Skin 1 (min)` and `UV Max Time (hh.mm)`. In this way all the UV related devices will be together in the same `Weather` folder.
+  * Note2: UV type devices will appear in the `Weather` folder of DomoticZ web page, and the rest of devices will appear in the `Utility` folder. If you prefer that all the UV related devices appear in the `Weather` folder, configure all the `Safe Time Skin` and the `UV Max Time` devices as UV devices and include the units in the name, ie `Safe Time Skin 1 (min)` and `UV Max Time (hh.mm)`. In this way all the UV related devices will be together in the same `Weather` folder.
 
 * Copy the script:
   * Menu Setup / More Options / Events
