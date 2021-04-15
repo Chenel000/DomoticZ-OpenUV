@@ -5,7 +5,7 @@ return {
 			'at 08:00-20:00 every 15 minutes' -- This time range and steps allow to fit with 50 request per day limit
 		},
 		httpResponses = {
-			'openuv' -- must match with the parameter 'callback' used in dz.openURL({url =, method =, headers =, callback = openuv'})
+			'openuv' -- must match with the parameter 'callback' used in dz.openURL({url =, method =, headers =, callback = 'openuv'})
 		}
 	},
 	execute = function(dz, item)
