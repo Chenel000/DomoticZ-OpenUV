@@ -5,7 +5,7 @@ return {
 			'at 08:00-20:00 every 15 minutes' -- This time range and steps allow to fit with 50 request per day limit
 		},
 		httpResponses = {
-			'trigger' -- must match with the callback passed to the openURL command
+			'trigger'
 		}
 	},
 	execute = function(dz, item)
