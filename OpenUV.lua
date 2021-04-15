@@ -5,7 +5,7 @@ return {
 			'at 08:00-20:00 every 15 minutes' -- This time range and steps allow to fit with 50 request per day limit
 		},
 		httpResponses = {
-			'trigger'
+			'at 08:00-20:00 every 15 minutes' -- Same timer sequence specified in timer = { 'timer sequence' }
 		}
 	},
 	execute = function(dz, item)
