@@ -5,7 +5,7 @@ return {
 			'at 08:00-20:00 every 15 minutes' -- This time range and steps allow to fit with 50 request per day limit
 		},
 		httpResponses = {
-			'at 08:00-20:00 every 15 minutes' -- Same timer sequence specified in timer = { 'timer sequence' }
+			'openuv' -- must match with the parameter 'callback' used in dz.openURL({url =, method =, headers =, callback = openuv'})
 		}
 	},
 	execute = function(dz, item)
@@ -35,7 +35,7 @@ return {
 				url = 'https://api.openuv.io/api/v1/uv?lat=' .. latitude .. '&lng=' .. longitude .. '&alt=' .. altitude .. '&dt=' .. t.getISO(),
 				method   = 'GET',
 				headers = { ['x-access-token'] = apiKey },
-				callback = 'trigger',
+				callback = 'openuv',
 			})
 		end
 
